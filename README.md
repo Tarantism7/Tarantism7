@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+About[https://tarantism7.github.io/about/]
 <!--
 **Tarantism7/Tarantism7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
