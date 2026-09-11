@@ -1,5 +1,15 @@
 ## Hi there 👋
 [About me](https://tarantism7.github.io/about/)
+
+Currently working on Java Telegram Bots
+#### Learning 
+- JavaScript
+- Python
+- Node.js
+- Lua
+- HTML/CSS
+- Swift
+
 <!--
 **Tarantism7/Tarantism7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
