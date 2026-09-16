@@ -3,12 +3,12 @@
 
 Currently working on Java Telegram Bots
 #### Learning 
-- JavaScript
-- Python
-- Node.js
-- Lua
-- HTML/CSS
-- Swift
+| Now | | Next |
+|:--:| -- |:--:|
+| JavaScript | | Lua |
+| Python | | Node.js |
+| HTML/CSS | | Swift |
+
 
 <!--
 **Tarantism7/Tarantism7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
