@@ -3,11 +3,11 @@
 
 Currently working on Java Telegram Bots
 #### Learning 
-| Now | | Next |
-|:--:| -- |:--:|
-| JavaScript | | Lua |
-| Python | | Node.js |
-| HTML/CSS | | Swift |
+| Now | Next |
+|:--:|:--:|
+| JavaScript | Lua |
+| Python | Node.js |
+| HTML/CSS | Swift |
 
 
 <!--
